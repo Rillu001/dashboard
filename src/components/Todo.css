@@ -1,0 +1,33 @@
+.form-check-label{
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 14px;
+}
+.form-check-input{
+    padding: 2px;
+    margin-top: 13px;
+    border-radius: 2rem;
+    background-color: transparent;
+    border-color: black;
+}
+.minifour-yellow-todo{
+     padding: 10px;
+     background-color: #F8F988;
+     border-radius: 2rem;
+     border-style: none;;
+}
+input[type=checkbox]:checked {
+    background-color: black !important;
+    color: #ffffff !important;
+    border-style: none;
+  }
+.btn-dark{
+    border-radius: 3rem;
+    margin-top: 20px;
+    width: 30%;
+    font-size: 12px;
+    height: 40%;
+}
+h5{
+    font-weight: bold;;
+}

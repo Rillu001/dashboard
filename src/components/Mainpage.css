@@ -1,0 +1,52 @@
+.card-deck{
+    margin-top: 50px;
+}
+.minifour-yellow{
+    margin-top: 10px;
+    border-radius: 16px;
+    background-color: #F8F988;
+    border-style: none;
+}
+.minifour-black{
+    margin-top: 10px;
+    border-radius: 16px;
+    background-color: black;
+    border-style: none;
+}
+.card-small{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+.spandetail{
+    float: right;
+    font-size: 12px;
+}
+.card-small-b{
+    color: #F8F988;
+    font-weight: bold;
+    font-size: 16px;
+}
+.card-big-b{
+    color: #F8F988;
+}
+.spandetail-b{
+    float: right;
+    font-size: 12px;
+    color: #F8F988;
+}
+.linechartadd{
+    padding: 20px;
+}
+.num{
+    font-size: 16px;
+    color: green;
+    font-weight: bold;;
+}
+.numtext{
+    color: grey;
+    font-size: 13px;
+}
+.order{
+    margin-top: 10px;
+}

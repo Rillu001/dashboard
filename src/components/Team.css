@@ -1,0 +1,47 @@
+.form-check-label{
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 14px;
+}
+.form-check-input{
+    padding: 2px;
+    margin-top: 13px;
+    border-radius: 2rem;
+    background-color: transparent;
+    border-color: black;
+}
+.minifour-yellow-todo{
+     padding: 10px;
+     background-color: #F8F988;
+     border-radius: 2rem;
+     border-style: none;;
+}
+input[type=checkbox]:checked {
+    background-color: black !important;
+    color: #ffffff !important;
+    border-style: none;
+  }
+.btn-dark{
+    border-radius: 3rem;
+    margin-top: 20px;
+    width: 30%;
+    font-size: 12px;
+    height: 40%;
+}
+.person-icon{
+    width: 45px;
+    height: 45px;
+    padding: 5x;
+    margin-right: 10px;
+}
+.cal-msg{
+   float: right;
+   padding: 10px;
+   font-size: 18px;
+   font-weight: bold;
+}
+.teamname{
+    font-weight: bold;
+    font-size: 14px;
+    padding: 5px;
+}
